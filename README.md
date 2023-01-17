@@ -1,2 +1,2 @@
-# Mis-Entregables
-Actividades en Hackwomen
+Self improvement path
+Hackwomen activities
